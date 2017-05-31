@@ -6,7 +6,7 @@ import 'todomvc-app-css/index.css';
 
 import AppView from 'views/app';
 import Backbone from 'backbone';
-import Demo from 'Demo.jsx';
+// import Demo from 'Demo.jsx';
 import React from 'react';
 import Workspace from 'routers/router';
 import $ from 'jquery';

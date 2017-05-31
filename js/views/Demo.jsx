@@ -32,4 +32,4 @@ var Demo = React.createClass({
   }
 });
 
-export default Demo;
+//export default Demo;
